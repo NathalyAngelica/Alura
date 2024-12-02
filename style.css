@@ -4,7 +4,7 @@
   body{
    font-family: "Roboto", sans-serif;
    background:blueviolet;
-   color:yellow;
+   color:black;
    margin:0px;
    margin-bottom:100px;
 
@@ -18,7 +18,7 @@
    padding-bottom: 80px;
 }
 header{
-   color:bisque;
+   color:white;
    font-size:35px;
    border-bottom:3px solid rgb(255, 238, 0) ;
    padding: 20px;
