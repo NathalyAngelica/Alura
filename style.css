@@ -4,14 +4,14 @@
   body{
    font-family: "Roboto", sans-serif;
    background:blueviolet;
-   color:rgb(231, 117, 203);
+   color:rgb(242, 193, 247);
    margin:0px;
    margin-bottom:100px;
 
 
 }
 .chamada{
-   background: rgb(125, 155, 255);
+   background: rgb(243, 103, 231);
    display: flex;
    justify-content: center;
    padding-bottom: 80px;
@@ -20,7 +20,7 @@
 header{
    color:white;
    font-size:35px;
-   border-bottom:3px solid rgb(255, 238, 0) ;
+   border-bottom:3px solid rgb(66, 6, 71) ;
    padding: 20px;
 
 }
