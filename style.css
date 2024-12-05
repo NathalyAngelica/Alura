@@ -3,15 +3,15 @@
  }
   body{
    font-family: "Roboto", sans-serif;
-   background:blueviolet;
-   color:rgb(242, 193, 247);
+   background:rgb(150, 40, 172);
+   color:rgb(241, 116, 255);
    margin:0px;
    margin-bottom:100px;
 
 
 }
 .chamada{
-   background: rgb(243, 103, 231);
+   background: rgb(255, 212, 251);
    display: flex;
    justify-content: center;
    padding-bottom: 80px;
